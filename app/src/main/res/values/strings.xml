@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Theme Switcher</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="auto_theme">Auto</string>
+    <string name="sample_button_label">Sample button</string>
+    <string name="choose_your_theme">Choose your theme</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis nibh nulla. Fusce aliquam metus in turpis porttitor hendrerit. Vivamus pharetra leo a felis blandit eleifend. In molestie porttitor semper. Proin at lacinia lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum egestas elit eu molestie congue. Donec elementum accumsan purus, sed consectetur turpis sodales et. Suspendisse at euismod nisi. Donec accumsan fringilla venenatis. Aliquam erat volutpat. Suspendisse elit ipsum, placerat et gravida a, euismod eu nulla. Mauris malesuada enim id justo fringilla posuere quis sit amet urna. Aenean quis libero eu sem hendrerit posuere. Etiam non orci id libero suscipit commodo ut at diam.</string>
+</resources>
